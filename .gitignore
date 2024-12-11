@@ -1,0 +1,10 @@
+__pycache__/
+.vscode/
+bin/
+etc/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
+static/model/*
