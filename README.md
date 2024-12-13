@@ -85,7 +85,7 @@ ipykernel* (6.28.0)
 \* - Starred dependencies are essential for running the proof of concept Jupyter Notebook in the Backend Visualizer directory
 
 ### Contributing
-The implementation of this project is open to suggestions in the [Error](https://github.com/josh-nguyen-dev/AnxietyPredictor/errors) section of this repository. The code is prone to sluggish execution time and is always open to optimization in all aspects (especially backend processes).
+The implementation of this project is open to suggestions in the [Issues](https://github.com/josh-nguyen-dev/AnxietyPredictor/issues) section of this repository. The code is prone to sluggish execution time and is always open to optimization in all aspects (especially backend processes).
 - Fork the repository
 - Create a feature branch
 - Commit changes
