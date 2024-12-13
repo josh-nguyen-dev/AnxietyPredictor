@@ -3,6 +3,11 @@
 #### Description
 Students share a burden of neverending work as they progress through high school and college. Many are unaware by what potential factors increase their buildup of anxiety aside from their work. This project uses a AI model, trained on physiological and health-related indicators, to predict an individual's potential anxiety level. The AI model is trained on a dataset involving (# of ) students and their anxietal factors. Leading factors are including but not limited to sleep quality, blood pressure, headaches, and self esteem. Students will be given a prediction from the AI model on their suggested anxiety levels, most significant factors leading to their anxiety, and potential solutions to dealing with their anxietial factors. Individuals will be able to identify leading factors of their anxiety, if any, and find solutions to lower their anxiety levels after interacting with this project.
 
+#### Technologies Used
+- Frontend:  HTML, CSS, JS
+- Backend: Python, Tensorflow
+- Deployment: Flask
+
 #### Features
 - 15+ anxiety factors to consider
 - AI model trained on 1000+ entries of factors
